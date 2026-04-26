@@ -125,6 +125,5 @@ Si jugadores legítimos están siendo kickeados, subir `SUSPICION_KICK_THRESHOLD
 - No funciona en open.mp.
 - El firewall iptables y el filterscript van juntos.
 
-## Licencia
+SOPORTE: Discord (aggudo)
 
-MIT
